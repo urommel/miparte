@@ -1,0 +1,7 @@
+
+/* colocar con un nombres chking style="height: 20px;width: 20px; */
+
+:checked {
+    height: 20px;
+    width: 20px;
+}
